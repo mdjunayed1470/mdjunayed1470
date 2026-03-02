@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋What's Up ?</h1>
-<h1 align="right">MY NAME IS JUNAYED AND THIS IS MY GITHUB ACCOUNT😊🤭....!</h1>
+<h1 align="right">MY NAME IS JUNAYED AND THIS IS MY GITHUB ACCOUNT😊..!</h1>
 <h2 align="center">I am a learner. I learned just HTML AND CSS and now learning JS </h2>
 
 ###
